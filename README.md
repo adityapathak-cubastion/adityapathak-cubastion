@@ -33,6 +33,31 @@ I joined the Vatika Business Park office in Gurgaon on January 2nd, 2025.<br>
   </tr>
 </table>
 
+### February
+
+- Joined the GEN AI - FUSO team
+- Co-developed the TIC Chatbot for Mitsubishi FUSO
+- Performed comprehensive testing of the application by querying and comparing expected responses
+
+### March
+
+<table>
+  <tr>
+    <th style="width: 100px;">S. No.</th>
+    <th style="width: 200px;">Project Name</th>
+    <th style="width: 2000px;">Project Description</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href = "https://github.com/adityapathak-cubastion/match-resume-with-jobDescription">Match Resumes with Job Description</a></td>
+    <td>This project aims to make the process of matching resumes with a particular job description much faster. Simply enter the required job-description and all the resumes that need to be filtered and run the script to find the top scorer as well as the 'n' best matching resumes! Built using Python, Hugging Face and Scikit-Learn.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href = "https://github.com/adityapathak-cubastion/ai-agent-01">AI Agent 01</a></td>
+    <td>This is my first AI Agent. It can chat, perform basic calculations, reverse strings, set timers, and summarise text. Currently a work in progress.</td>
+  </tr>
+
 <!--
 **adityapathak-cubastion/adityapathak-cubastion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
