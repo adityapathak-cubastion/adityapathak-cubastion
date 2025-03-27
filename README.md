@@ -57,7 +57,14 @@ I joined the Vatika Business Park office in Gurgaon on January 2nd, 2025.<br>
     <td><a href = "https://github.com/adityapathak-cubastion/ai-agent-01">AI Agent 01</a></td>
     <td>This is my first AI Agent. It can chat, perform basic calculations, reverse strings, set timers, and summarise text. Currently a work in progress.</td>
   </tr>
-
+  <tr>
+    <td>3</td>
+    <td><a href = "https://github.com/adityapathak-cubastion/iLikePDF">iLikePDF</a></td>
+    <td>Open source tools that give great results, like the well-made PDF handling service, <a href = "https://www.ilovepdf.com/">iLovePDF</a>.<br>There are<br>
+      - pipelines for converting directories of PDFs to DOCX and PPTX files<br>
+      - APIs to convert single PDFs to DOCX and PPTX files effortlessly.<br>
+      Currently a work in progress.</td>
+  </tr>
 <!--
 **adityapathak-cubastion/adityapathak-cubastion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
