@@ -1,6 +1,6 @@
 # Hello 👋🏽 I'm Aditya Pathak!
 
-I'm Aditya Pathak (also found <a href = "https://github.com/adityapathakk">here</a>), a Gen-AI Intern at Cubastion Consulting.<br>
+I'm Aditya Pathak (also found <a href = "https://github.com/adityapathakk">here</a>), a Graduate Trainee Engineer/Gen AI Consultant at Cubastion Consulting.<br>
 I joined the Vatika Business Park office in Gurgaon on January 2nd, 2025.<br>
 
 ### January
